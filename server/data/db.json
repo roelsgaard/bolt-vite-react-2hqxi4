@@ -1,0 +1,49 @@
+{
+  "matches": {
+    "asd": {
+      "likedRestaurants": [
+        "ChIJY_s_rFhyTEYRBXvOHkIHONY",
+        "ChIJG7wR-nlyTEYRr0W1mPRDwJg"
+      ]
+    },
+    "test": {
+      "likedRestaurants": [
+        "ChIJY_s_rFhyTEYRBXvOHkIHONY",
+        "ChIJY_s_rFhyTEYRBXvOHkIHONY"
+      ],
+      "users": [
+        "Chris",
+        "Helene"
+      ],
+      "userLikes": {
+        "Chris": [
+          "ChIJY_s_rFhyTEYRBXvOHkIHONY"
+        ],
+        "Helene": [
+          "ChIJY_s_rFhyTEYRBXvOHkIHONY"
+        ]
+      },
+      "matches": [
+        {
+          "restaurantId": "ChIJY_s_rFhyTEYRBXvOHkIHONY",
+          "users": [
+            "Helene",
+            "Chris"
+          ],
+          "restaurant": {
+            "id": "ChIJY_s_rFhyTEYRBXvOHkIHONY",
+            "name": "Nørre Vissing Kro",
+            "cuisine": "meal_takeaway",
+            "rating": 4,
+            "priceRange": 2,
+            "waitTime": "15-20 min",
+            "imageUrl": "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sAdDdOWpq_m5ASuxFg0xaZpGPuYHZjaRsm-8HWkyZluVj6q4ISBaACpos1aBnZkX5R-DKWkRezDzGRKfu51JQ9ePadRDUZIbV0CxiHMxf4GjlsVnG2WvzHgt_hVVbLYmo-rho9RXFIx0Xugs1KqS_idgRDfyveMmvK__afzW1RZfIjsjOWPbs&3u4000&5m1&2e1&callback=none&r_url=https%3A%2F%2Fzp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3-zzed1pis--5173--f565b097.local-credentialless.webcontainer-api.io%2F&key=AIzaSyABfS0soV133Q4eOTv4BCkmfkv7xw0WYG0&token=86077",
+            "vicinity": "Låsbyvej 122, Skanderborg"
+          },
+          "timestamp": "2024-11-10T20:10:12.513Z"
+        }
+      ]
+    }
+  },
+  "likedRestaurants": {}
+}
